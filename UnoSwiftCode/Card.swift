@@ -1,11 +1,3 @@
-//
-//  Card.swift
-//  Challenge
-//
-//  Created by Lucas Dimer Justo on 16/03/21.
-//
-
-
 enum Color: String {
     case blue, yellow, green, red, any //any=wild
     
