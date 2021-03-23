@@ -1,10 +1,3 @@
-//
-//  Game.swift
-//  Challenge
-//
-//  Created by Lucas Dimer Justo on 16/03/21.
-//
-
 import AVFoundation
 
 class Game {
