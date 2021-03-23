@@ -1,11 +1,3 @@
-//
-//  Deck.swift
-//  Challenge
-//
-//  Created by Lucas Dimer Justo on 16/03/21.
-//
-
-
 class Deck {
     var cards: [Card]
     
